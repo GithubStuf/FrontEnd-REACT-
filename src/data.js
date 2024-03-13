@@ -4,21 +4,21 @@ import image3 from './public/assets/24.webp';
 export const sliderItems = [
     {
       id: 1,
-      img: "/public/assets/22.png",
+      img: image1,
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "/public/assets/23.webp",
+      img: image2,
       title: "AUTUMN COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "/public/assets/24.webp",
+      img: image3,
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "e7e7e7",
