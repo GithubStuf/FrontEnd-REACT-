@@ -71,6 +71,6 @@ export const sliderItems = [
     },
     {
       id:8,
-      img:"/src/assets/36.webp",
+      img:"/public/assets/36.webp",
     },
   ]
