@@ -1,16 +1,17 @@
 import image1 from './public/assets/22.png';
 import image2 from './public/assets/23.webp';
 import image3 from './public/assets/24.webp';
-import image2 from './public/assets/26.webp';
-import image3 from './public/assets/27.webp';
-import image1 from './public/assets/37.png';
-import image2 from './public/assets/29.webp';
-import image3 from './public/assets/30.webp';
-import image1 from './public/assets/31.png';
-import image2 from './public/assets/32.webp';
-import image3 from './public/assets/33.webp';
-import image1 from './public/assets/34.png';
-import image2 from './public/assets/35.webp';
+import image4 from './public/assets/26.webp';
+import image5 from './public/assets/27.webp';
+import image6 from './public/assets/37.png';
+import image7 from './public/assets/29.webp';
+import image8 from './public/assets/30.webp';
+import image9 from './public/assets/31.png';
+import image10 from './public/assets/32.webp';
+import image11 from './public/assets/33.webp';
+import image12 from './public/assets/34.png';
+import image13 from './public/assets/35.webp';
+import image13 from './public/assets/36.webp';
 
 export const sliderItems = [
     {
@@ -39,17 +40,17 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "/public/assets/26.webp",
+      img: image4,
       title: "SHIRT STYLE!",
     },
     {
       id: 2,
-      img: "/public/assets/27.webp",
+      img: image5,
       title: "LOUNGEWEAR LOVE",
     },
     {
       id: 3,
-      img: "/public/assets/37.webp",
+      img: image6,
       title: "LIGHT JACKETS",
     },
   ];
@@ -57,34 +58,34 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"/public/assets/29.webp",
+      img:image7,
     },
     {
       id:2,
-      img:"/public/assets/30.webp",
+      img:image8,
     },
     {
       id:3,
-      img:"/public/assets/31.webp",
+      img:image9,
     },
     {
       id:4,
-      img:"/public/assets/32.webp",
+      img:image10,
     },
     {
       id:5,
-      img:"/public/assets/33.webp",
+      img:image11,
     },
     {
       id:6,
-      img:"/public/assets/34.webp",
+      img:image12,
     },
     {
       id:7,
-      img:"/public/assets/35.webp",
+      img:image13,
     },
     {
       id:8,
-      img:"/public/assets/36.webp",
+      img:image14,
     },
   ]
