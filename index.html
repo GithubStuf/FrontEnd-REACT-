@@ -31,16 +31,31 @@
       box-sizing: border-box;
     }
   </style>
-  <!-- <style>
-    .hidden {
-      opacity: 0;
-      transition: all 1s ease;
+  <style>
+        /* Desktop view */
+    
+    #toggler {
+      display: none;
     }
-    .show{
-      opacity: 1;
-      transition: all 1s ease;
+    
+    @keyframes fadeIn {
+      to {
+        background: rgba(0, 0, 0, 0.8);
+      }
     }
-  </style> -->
+    /* Mobile view */
+    @media (max-width: 675px) {
+      input#toggler:checked ~ .links-wrapper .links {
+        right: 0;
+      }
+      input#toggler:checked ~ .links-wrapper .close-btn {
+        right: 32px;
+      }
+      input#toggler:checked ~ .links-wrapper .backdrop {
+        display: block;
+      }
+    }
+  </style> 
   <title>React App</title>
   </head>
   <body>
