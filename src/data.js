@@ -1,6 +1,17 @@
 import image1 from './public/assets/22.png';
 import image2 from './public/assets/23.webp';
 import image3 from './public/assets/24.webp';
+import image2 from './public/assets/26.webp';
+import image3 from './public/assets/27.webp';
+import image1 from './public/assets/37.png';
+import image2 from './public/assets/29.webp';
+import image3 from './public/assets/30.webp';
+import image1 from './public/assets/31.png';
+import image2 from './public/assets/32.webp';
+import image3 from './public/assets/33.webp';
+import image1 from './public/assets/34.png';
+import image2 from './public/assets/35.webp';
+
 export const sliderItems = [
     {
       id: 1,
