@@ -1,3 +1,6 @@
+import image1 from './public/assets/22.png';
+import image2 from './public/assets/23.webp';
+import image3 from './public/assets/24.webp';
 export const sliderItems = [
     {
       id: 1,
