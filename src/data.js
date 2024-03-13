@@ -1,17 +1,17 @@
-import image1 from './public/assets/22.png';
-import image2 from './public/assets/23.webp';
-import image3 from './public/assets/24.webp';
-import image4 from './public/assets/26.webp';
-import image5 from './public/assets/27.webp';
-import image6 from './public/assets/37.png';
-import image7 from './public/assets/29.webp';
-import image8 from './public/assets/30.webp';
-import image9 from './public/assets/31.png';
-import image10 from './public/assets/32.webp';
-import image11 from './public/assets/33.webp';
-import image12 from './public/assets/34.png';
-import image13 from './public/assets/35.webp';
-import image13 from './public/assets/36.webp';
+import image1 from '/assets/22.png';
+import image2 from '/assets/23.webp';
+import image3 from '/assets/24.webp';
+import image4 from '/assets/26.webp';
+import image5 from '/assets/27.webp';
+import image6 from '/assets/37.webp';
+import image7 from '/assets/29.webp';
+import image8 from '/assets/30.webp';
+import image9 from '/assets/31.webp';
+import image10 from '/assets/32.webp';
+import image11 from '/assets/33.webp';
+import image12 from '/assets/34.webp';
+import image13 from '/assets/35.webp';
+import image14 from '/assets/36.webp';
 
 export const sliderItems = [
     {
