@@ -119,7 +119,7 @@ const Footer = () => {
             <ContactItem>
                 <MailOutline sx={{marginRight:"10px"}}/>contact@monster.dev
             </ContactItem>
-            <Payment src="/src/assets/payment.png"/>
+            <Payment src="/assets/payment.png"/>
         </Right>
     </Container>
   )
